@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **orban.klara@yahoo.com**
 
-- ⚡ Fun fact **I am down to earth! Veryi passionate about everything I do!!**
+- ⚡ Fun fact **I am down to earth! Very passionate about everything I do!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
