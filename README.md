@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Klára</h1>
+
 - 🌱 I’m currently learning **CS - in german at Babes-Bolyai University**
+
+- 😎 I have written a "Meeting Room booking" application (coming soon...💢❗)
 
 - 👯 I’m looking to collaborate on **any kind of projects**
 
