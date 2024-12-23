@@ -6,11 +6,13 @@
 
 - 👯 I’m looking to collaborate on **any kind of projects**
 
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/Klaraaorban/UBB-Computer-science/tree/main)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/Klaraaorban?tab=repositories)
 
 - 📫 How to reach me **orban.klara@yahoo.com**
 
 - ⚡ Fun fact **I am down to earth! Very passionate about everything I do!!**
+
+- I tend to do the things i decide to do ;) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
