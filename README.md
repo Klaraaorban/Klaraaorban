@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Klára</h1>
 
-- 🌱 I’m currently learning **CS - in german at Babes-Bolyai University**
+- **CS student, learning in german at Babes-Bolyai University**
 
-- 😎 I have written a "Meeting Room booking" application (coming soon...💢❗)
+- I have written a "Meeting Room booking" application (coming soon...💢❗)
 
-- 👯 I’m looking to collaborate on **any kind of projects**
+- All of my projects are available at [my github profile](https://github.com/Klaraaorban?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/Klaraaorban?tab=repositories)
+- How to reach me **orban.klara@yahoo.com** or **klara.orban@stud.ubbcluj.ro**
 
-- 📫 How to reach me **orban.klara@yahoo.com** or **klara.orban@stud.ubbcluj.ro**
-
-- ⚡ Fun fact **Whatever I do, I put my heart in it! I don't give up!**
-
-- I tend to do the things i decide to do ;) 
+- **I tend to do the things i decide to do ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
