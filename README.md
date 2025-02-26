@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Klára</h1>
 
+
 - **CS student, learning in german at Babes-Bolyai University**
 
 - I have written a "Meeting Room booking" application (coming soon...💢❗)
@@ -9,6 +10,8 @@
 - How to reach me **orban.klara@yahoo.com** or **klara.orban@stud.ubbcluj.ro**
 
 - **I tend to do the things i decide to do ;)**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Klaraaorban&color=green)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
