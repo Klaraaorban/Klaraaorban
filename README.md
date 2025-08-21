@@ -3,7 +3,11 @@
 
 - **CS student, learning in german at Babes-Bolyai University**
 
+- **researcher wannabe ;]**
+
 - I have written a "Meeting Room booking" application (coming soon...💢❗)
+
+- Currently working with a locally installable Ai ChatBot, (RAG)
 
 - All of my projects are available at [my github profile](https://github.com/Klaraaorban?tab=repositories)
 
